@@ -8,5 +8,9 @@
     "iconv-lite": "^0.4.15",
     "mocha": "^3.2.0",
     "sync-request": "^4.0.1"
+  },
+  "scripts": {
+    "mocha": "mocha",
+    "gulp": "gulp"
   }
 }
